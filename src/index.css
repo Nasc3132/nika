@@ -1,0 +1,62 @@
+:root {
+  color-scheme: light dark;
+  font-family: 'Manrope', sans-serif;
+  background: #f5efe7;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  font-family: 'Manrope', sans-serif;
+  background:
+    radial-gradient(circle at top left, rgba(212, 142, 107, 0.18), transparent 28%),
+    radial-gradient(circle at top right, rgba(142, 164, 126, 0.18), transparent 25%),
+    linear-gradient(180deg, #f7f1ea 0%, #f2ebe2 100%);
+  color: #2c211b;
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.1) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.08) 1px, transparent 1px);
+  background-size: 32px 32px;
+  mask-image: linear-gradient(180deg, rgba(0, 0, 0, 0.2), transparent 70%);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+.chakra-theme.dark body,
+body.dark,
+[data-theme='dark'] body {
+  background:
+    radial-gradient(circle at top left, rgba(212, 142, 107, 0.14), transparent 28%),
+    radial-gradient(circle at top right, rgba(142, 164, 126, 0.14), transparent 25%),
+    linear-gradient(180deg, #191512 0%, #11100f 100%);
+}

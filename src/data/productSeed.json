@@ -1,0 +1,542 @@
+[
+  {
+    "id": "llavero-nombre-personalizado",
+    "category": "Llaveros y regalos 3D",
+    "name": "Llavero con nombre personalizado",
+    "description": "Llavero impreso en 3D con tipografia gruesa, ideal para regalos, marcas o recuerdos de evento.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "llavero-logo-empresa",
+    "category": "Llaveros y regalos 3D",
+    "name": "Llavero con logo de empresa",
+    "description": "Pieza promocional en PLA con logo, colores corporativos y perforacion lista para aro metalico.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "placa-nfc-llavero",
+    "category": "Llaveros y regalos 3D",
+    "name": "Placa llavero para NFC",
+    "description": "Carcasa compacta para encapsular tags NFC en llaveros personalizados para negocio o acceso.",
+    "basePrice": 160,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "abridor-llavero-corporativo",
+    "category": "Llaveros y regalos 3D",
+    "name": "Abridor llavero corporativo",
+    "description": "Llaveros funcionales con cuerpo rigido y espacio para identidad visual o nombre del evento.",
+    "basePrice": 120,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "kit-recuerdos-evento-3d",
+    "category": "Llaveros y regalos 3D",
+    "name": "Kit de recuerdos para evento",
+    "description": "Set de piezas pequenas para bodas, bautizos, graduaciones o activaciones de marca.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "mini-letrero-escritorio-personalizado",
+    "category": "Llaveros y regalos 3D",
+    "name": "Mini letrero de escritorio personalizado",
+    "description": "Nombre o frase corta impresa en 3D para regalar en oficinas, mesas de trabajo o estudios.",
+    "basePrice": 250,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "busto-anime-20cm",
+    "category": "Decoracion y figuras",
+    "name": "Busto anime de 20 cm",
+    "description": "Figura decorativa en alta presencia visual para coleccion, escritorio o repisa tematica.",
+    "basePrice": 420,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "figura-robot-articulado",
+    "category": "Decoracion y figuras",
+    "name": "Robot articulado de exhibicion",
+    "description": "Modelo 3D con articulaciones funcionales y acabado pensado para coleccionistas o regalos geek.",
+    "basePrice": 580,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "dragon-articulado-premium",
+    "category": "Decoracion y figuras",
+    "name": "Dragon articulado premium",
+    "description": "Pieza larga y flexible impresa en segmentos articulados con fuerte impacto visual.",
+    "basePrice": 650,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "figura-mascota-personalizada",
+    "category": "Decoracion y figuras",
+    "name": "Figura de mascota personalizada",
+    "description": "Modelo decorativo basado en fotos de tu mascota para regalo especial o memoria personalizada.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "lampara-litofania-redonda",
+    "category": "Decoracion y figuras",
+    "name": "Lampara litofania redonda",
+    "description": "Lampara o panel con fotografia transformada en litofania impresa en 3D.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "letrero-neon-falso-3d",
+    "category": "Decoracion y figuras",
+    "name": "Letrero 3D estilo neon",
+    "description": "Letrero decorativo para pared o negocio con capas y volumen visual tipo neon sin cableado.",
+    "basePrice": 520,
+    "isCustom": false,
+    "inStock": false
+  },
+  {
+    "id": "organizador-escritorio-modular",
+    "category": "Organizacion y oficina",
+    "name": "Organizador de escritorio modular",
+    "description": "Sistema de modulos apilables para plumas, memorias, clips y accesorios de oficina.",
+    "basePrice": 360,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "porta-plumas-hexagonal",
+    "category": "Organizacion y oficina",
+    "name": "Porta plumas hexagonal",
+    "description": "Contenedor compacto con estilo geometrico para escritorio, estudio o recepcion.",
+    "basePrice": 140,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "soporte-audifonos-wave",
+    "category": "Organizacion y oficina",
+    "name": "Soporte para audifonos Wave",
+    "description": "Base curva para audifonos over-ear que libera espacio y ordena tu zona de trabajo.",
+    "basePrice": 290,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "base-laptop-ventilada",
+    "category": "Organizacion y oficina",
+    "name": "Base ventilada para laptop",
+    "description": "Soporte inclinado con rejilla para mejorar flujo de aire y ergonomia en escritorio.",
+    "basePrice": 420,
+    "isCustom": false,
+    "inStock": false
+  },
+  {
+    "id": "clip-cables-multipunto",
+    "category": "Organizacion y oficina",
+    "name": "Clip para cables multipunto",
+    "description": "Pieza pequena y practica para guiar cables de carga, audio o perifericos sobre el escritorio.",
+    "basePrice": 90,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "porta-tarjetas-escritorio",
+    "category": "Organizacion y oficina",
+    "name": "Porta tarjetas de escritorio",
+    "description": "Soporte de mesa para tarjetas de presentacion, credenciales o mini anuncios.",
+    "basePrice": 110,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "soporte-control-ps5",
+    "category": "Gaming y escritorio",
+    "name": "Soporte para control PS5",
+    "description": "Base estable con inclinacion ligera para exhibir y ordenar controles de consola.",
+    "basePrice": 210,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "dock-nintendo-switch-slim",
+    "category": "Gaming y escritorio",
+    "name": "Dock slim para Nintendo Switch",
+    "description": "Dock compacto para exhibicion y carga, pensado para setups limpios y minimalistas.",
+    "basePrice": 420,
+    "isCustom": false,
+    "inStock": false
+  },
+  {
+    "id": "stand-headset-gamer",
+    "category": "Gaming y escritorio",
+    "name": "Stand gamer para headset",
+    "description": "Soporte vertical para audifonos gamer con base ancha y perfil tecnico.",
+    "basePrice": 260,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "soporte-mandos-doble",
+    "category": "Gaming y escritorio",
+    "name": "Soporte doble para mandos",
+    "description": "Organizador de dos niveles para controles, joysticks o accesorios similares.",
+    "basePrice": 330,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "exhibidor-cartuchos-juegos",
+    "category": "Gaming y escritorio",
+    "name": "Exhibidor para cartuchos y juegos",
+    "description": "Soporte compacto para mostrar cartuchos, cajas pequenas o piezas de coleccion gamer.",
+    "basePrice": 180,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "logo-gamer-personalizado",
+    "category": "Gaming y escritorio",
+    "name": "Logo gamer personalizado",
+    "description": "Placa o letrero 3D con tu gamertag, logo de stream o nombre del setup.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "organizador-especias-apilable",
+    "category": "Hogar y cocina",
+    "name": "Organizador apilable para especias",
+    "description": "Modulo impreso en 3D para ordenar frascos pequenos en alacena o repisa de cocina.",
+    "basePrice": 240,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "dispensador-bolsas-cocina",
+    "category": "Hogar y cocina",
+    "name": "Dispensador para bolsas de cocina",
+    "description": "Contenedor tubular para guardar y extraer bolsas de forma comoda y ordenada.",
+    "basePrice": 190,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "gancho-pared-multiuso",
+    "category": "Hogar y cocina",
+    "name": "Gancho de pared multiuso",
+    "description": "Gancho ligero para llaves, accesorios pequenos o herramientas de uso diario.",
+    "basePrice": 80,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "soporte-tablet-recetas",
+    "category": "Hogar y cocina",
+    "name": "Soporte para tablet de recetas",
+    "description": "Base inclinada para consultar recetas, videos o instrucciones sin ocupar las manos.",
+    "basePrice": 150,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "clip-cierre-bolsa-pack",
+    "category": "Hogar y cocina",
+    "name": "Pack de clips para cierre de bolsas",
+    "description": "Juego de clips reutilizables impresos en 3D para cerrar snacks, cafe o ingredientes secos.",
+    "basePrice": 60,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "porta-vasos-geometrico",
+    "category": "Hogar y cocina",
+    "name": "Porta vasos geometrico",
+    "description": "Set decorativo y funcional para mesa con patrones geometricos y acabado limpio.",
+    "basePrice": 120,
+    "isCustom": false,
+    "inStock": false
+  },
+  {
+    "id": "maceta-geometrica-12cm",
+    "category": "Macetas y jardineria",
+    "name": "Maceta geometrica de 12 cm",
+    "description": "Maceta decorativa impresa en 3D para suculentas, cactus o plantas de escritorio.",
+    "basePrice": 170,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "maceta-selfwatering-15cm",
+    "category": "Macetas y jardineria",
+    "name": "Maceta self-watering de 15 cm",
+    "description": "Maceta con deposito sencillo para riego asistido y uso diario en interiores.",
+    "basePrice": 260,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "soporte-esqueje-laboratorio",
+    "category": "Macetas y jardineria",
+    "name": "Soporte para esquejes estilo laboratorio",
+    "description": "Base ligera para sostener tubos o recipientes pequenos durante propagacion de plantas.",
+    "basePrice": 95,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "jardinera-escritorio-baja",
+    "category": "Macetas y jardineria",
+    "name": "Jardinera baja para escritorio",
+    "description": "Jardinera rectangular ideal para espacios pequenos, recepcion o home office.",
+    "basePrice": 220,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "maceta-personalizada-logo",
+    "category": "Macetas y jardineria",
+    "name": "Maceta personalizada con logo",
+    "description": "Maceta promocional o institucional con logo grabado o relieve frontal.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "mascara-base-cosplay",
+    "category": "Cosplay y props",
+    "name": "Mascara base para cosplay",
+    "description": "Base ligera para proyectos cosplay, util para lijado, pintura y personalizacion posterior.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "emblema-armadura-set",
+    "category": "Cosplay y props",
+    "name": "Set de emblemas para armadura",
+    "description": "Piezas decorativas para pecho, hombreras o accesorios de cosplay y escenografia.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "espada-prop-display",
+    "category": "Cosplay y props",
+    "name": "Espada prop para display",
+    "description": "Prop de exhibicion por secciones, pensado para decoracion, foto o convencion.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "soporte-casco-cosplay",
+    "category": "Cosplay y props",
+    "name": "Soporte para casco cosplay",
+    "description": "Base resistente para mostrar cascos, mascaras o props voluminosos sin deformarlos.",
+    "basePrice": 340,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "accesorio-orejas-fantasia",
+    "category": "Cosplay y props",
+    "name": "Accesorio de orejas fantasia",
+    "description": "Accesorio ligero para personaje, cosplay o sesion fotografica con acabado imprimible.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "torre-dados-compacta",
+    "category": "Miniaturas y juegos de mesa",
+    "name": "Torre de dados compacta",
+    "description": "Accesorio de mesa plegable o compacto para partidas de rol y juegos de tablero.",
+    "basePrice": 180,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "insert-organizador-juego",
+    "category": "Miniaturas y juegos de mesa",
+    "name": "Insert organizador para juego de mesa",
+    "description": "Organizacion interna personalizada para cajas de juego con cartas, tokens y fichas.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "set-terreno-modular-6pzs",
+    "category": "Miniaturas y juegos de mesa",
+    "name": "Set de terreno modular de 6 piezas",
+    "description": "Escenografia impresa en 3D para juegos tacticos, dioramas o partidas narrativas.",
+    "basePrice": 520,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "miniaturas-personalizadas-rpg",
+    "category": "Miniaturas y juegos de mesa",
+    "name": "Miniaturas RPG personalizadas",
+    "description": "Impresion de personajes personalizados para campañas, regalos o coleccion.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "bandeja-cartas-token",
+    "category": "Miniaturas y juegos de mesa",
+    "name": "Bandeja para cartas y tokens",
+    "description": "Accesorio para mesa que mantiene cartas, fichas y dados organizados durante la partida.",
+    "basePrice": 140,
+    "isCustom": false,
+    "inStock": false
+  },
+  {
+    "id": "letrero-mesa-qr",
+    "category": "Negocios y senaletica",
+    "name": "Letrero de mesa con QR",
+    "description": "Soporte 3D para menus digitales, pagos, redes sociales o enlaces rapidos de negocio.",
+    "basePrice": 160,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "exhibidor-producto-vertical",
+    "category": "Negocios y senaletica",
+    "name": "Exhibidor vertical para producto",
+    "description": "Base de exhibicion para mostrador, vitrinas o stands con productos pequenos.",
+    "basePrice": 280,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "portaprecio-modular",
+    "category": "Negocios y senaletica",
+    "name": "Porta precio modular",
+    "description": "Sistema reusable para etiquetas de anaquel, mesa de venta o ferias comerciales.",
+    "basePrice": 90,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "senaletica-bano-oficina",
+    "category": "Negocios y senaletica",
+    "name": "Senaletica para bano u oficina",
+    "description": "Placas impresas en 3D para puertas, pasillos o zonas internas de negocio.",
+    "basePrice": 150,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "logotipo-corporeo-3d",
+    "category": "Negocios y senaletica",
+    "name": "Logotipo corporeo 3D",
+    "description": "Letras o logo en volumen para pared, recepcion, local comercial o activacion de marca.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "engrane-personalizado",
+    "category": "Prototipos y refacciones",
+    "name": "Engrane personalizado",
+    "description": "Pieza tecnica para pruebas, reposicion o desarrollo rapido de mecanismos impresos.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "soporte-sensor-iot",
+    "category": "Prototipos y refacciones",
+    "name": "Soporte para sensor IoT",
+    "description": "Montura funcional para sensores, microcontroladores o pequenos sistemas integrados.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "carcasa-electronica-cnc-look",
+    "category": "Prototipos y refacciones",
+    "name": "Carcasa electronica estilo CNC",
+    "description": "Carcasa impresa en 3D con look tecnico para prototipos funcionales y presentacion.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "refaccion-domestica-pequena",
+    "category": "Prototipos y refacciones",
+    "name": "Refaccion domestica pequena",
+    "description": "Reposicion de piezas simples para hogar, muebles, clips o soportes fuera de mercado.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "prototipo-rapido-fdm",
+    "category": "Prototipos y refacciones",
+    "name": "Prototipo rapido FDM",
+    "description": "Impresion de prototipo en tiempos cortos para validacion de forma, escala y ensamble.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "soporte-celular-auto-maglock",
+    "category": "Movilidad y auto",
+    "name": "Soporte MagLock para celular",
+    "description": "Soporte compacto para automovil con geometria firme y presencia minimalista.",
+    "basePrice": 220,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "clip-organizador-cable-auto",
+    "category": "Movilidad y auto",
+    "name": "Clip organizador de cable para auto",
+    "description": "Accesorio pequeno para sujetar cable de carga en consola, tablero o compartimentos.",
+    "basePrice": 85,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "soporte-gopro-bicicleta",
+    "category": "Movilidad y auto",
+    "name": "Soporte para GoPro de bicicleta",
+    "description": "Soporte ligero para pruebas, grabacion o montaje de camaras de accion.",
+    "basePrice": 240,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "porta-lentes-consola-auto",
+    "category": "Movilidad y auto",
+    "name": "Porta lentes para consola del auto",
+    "description": "Accesorio impreso en 3D para mantener lentes o pequenos objetos siempre a mano.",
+    "basePrice": 160,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "base-cargador-auto-personalizada",
+    "category": "Movilidad y auto",
+    "name": "Base de cargador automotriz personalizada",
+    "description": "Base ajustada a medidas para integrar cargadores, accesorios o adaptadores en auto.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  }
+]

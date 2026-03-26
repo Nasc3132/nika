@@ -1,0 +1,398 @@
+[
+  {
+    "id": "llavero-spotify-personalizado",
+    "category": "Llaveros y regalos 3D",
+    "name": "Llavero Spotify personalizado",
+    "description": "Llavero impreso en 3D con placa tipo musica, nombre y cancion favorita para regalo o recuerdo.",
+    "basePrice": 95,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "medalla-mascota-qr",
+    "category": "Llaveros y regalos 3D",
+    "name": "Medalla QR para mascota",
+    "description": "Placa ligera con nombre, telefono y QR para datos de contacto o perfil de la mascota.",
+    "basePrice": 110,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "trofeo-mini-evento-3d",
+    "category": "Llaveros y regalos 3D",
+    "name": "Trofeo mini para evento 3D",
+    "description": "Trofeo compacto para torneos, convivios o premiaciones escolares con texto en relieve.",
+    "basePrice": 180,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "adorno-foto-pixel-3d",
+    "category": "Llaveros y regalos 3D",
+    "name": "Adorno pixelado con foto",
+    "description": "Pieza decorativa estilo pixel art basada en una foto, logo o personaje sencillo.",
+    "basePrice": 220,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "figura-lowpoly-venado",
+    "category": "Decoracion y figuras",
+    "name": "Figura low poly de venado",
+    "description": "Escultura decorativa de estilo geometrico para repisa, estudio o recepcion.",
+    "basePrice": 390,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "luna-litofania-personalizada",
+    "category": "Decoracion y figuras",
+    "name": "Luna litofania personalizada",
+    "description": "Lampara esferica con efecto litofania usando fotografia, dedicatoria o ilustracion simple.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "set-planetas-colgantes",
+    "category": "Decoracion y figuras",
+    "name": "Set de planetas colgantes",
+    "description": "Coleccion de esferas tematicas para cuartos, aulas o rincones creativos.",
+    "basePrice": 460,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "escultura-abstracta-ribbon",
+    "category": "Decoracion y figuras",
+    "name": "Escultura abstracta Ribbon",
+    "description": "Pieza de mesa con curvas organicas para interiores modernos o regalos ejecutivos.",
+    "basePrice": 340,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "dock-celular-reloj-modular",
+    "category": "Organizacion y oficina",
+    "name": "Dock modular para celular y reloj",
+    "description": "Base de escritorio para celular, reloj, monedas y llaves en una sola pieza.",
+    "basePrice": 280,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "charola-tarjetas-corporativa",
+    "category": "Organizacion y oficina",
+    "name": "Charola corporativa para tarjetas",
+    "description": "Organizador compacto para recepcion, mostrador o escritorio con espacio para branding.",
+    "basePrice": 190,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "clip-documentos-gigante",
+    "category": "Organizacion y oficina",
+    "name": "Clip gigante para documentos",
+    "description": "Sujetador de escritorio para notas, tickets o recordatorios en oficinas y talleres.",
+    "basePrice": 65,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "base-tablet-escritorio-plegable",
+    "category": "Organizacion y oficina",
+    "name": "Base plegable para tablet",
+    "description": "Soporte ligero con angulo comodo para videollamadas, lectura o punto de venta.",
+    "basePrice": 250,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "display-cartuchos-retro",
+    "category": "Gaming y escritorio",
+    "name": "Display para cartuchos retro",
+    "description": "Exhibidor impreso en 3D para juegos retro, coleccionables o tarjetas especiales.",
+    "basePrice": 260,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "soporte-control-doble",
+    "category": "Gaming y escritorio",
+    "name": "Soporte doble para controles",
+    "description": "Base para dos controles con presencia visual limpia para setup gamer o sala.",
+    "basePrice": 290,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "stand-headset-minimal",
+    "category": "Gaming y escritorio",
+    "name": "Stand minimal para headset",
+    "description": "Accesorio robusto para audifonos gaming o de trabajo con base estable.",
+    "basePrice": 240,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "organizador-dados-gamer",
+    "category": "Gaming y escritorio",
+    "name": "Organizador gamer para dados y fichas",
+    "description": "Caja compacta para dados, tokens y accesorios de juego de mesa o rol.",
+    "basePrice": 165,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "clip-bolsas-hex-pack",
+    "category": "Hogar y cocina",
+    "name": "Pack de clips hexagonales para bolsas",
+    "description": "Set reutilizable para cerrar bolsas de cafe, cereal o snacks con mejor orden en cocina.",
+    "basePrice": 95,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "soporte-especias-apilable",
+    "category": "Hogar y cocina",
+    "name": "Soporte apilable para especias",
+    "description": "Modulo impreso en 3D para organizar frascos pequenos y liberar espacio en repisas.",
+    "basePrice": 280,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "base-cuchara-cocina",
+    "category": "Hogar y cocina",
+    "name": "Base para cuchara de cocina",
+    "description": "Descanso practico para cuchara, pinza o espatula mientras cocinas.",
+    "basePrice": 120,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "dispensador-capsulas-cafe",
+    "category": "Hogar y cocina",
+    "name": "Dispensador de capsulas de cafe",
+    "description": "Organizador vertical para capsulas o sobres con opcion de ajuste a tu espacio.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "maceta-rostro-moderno",
+    "category": "Macetas y jardineria",
+    "name": "Maceta rostro moderno",
+    "description": "Maceta decorativa con rostro minimalista para interiores, estudios o cafeterias.",
+    "basePrice": 260,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "mini-invernadero-esquejes",
+    "category": "Macetas y jardineria",
+    "name": "Mini invernadero para esquejes",
+    "description": "Sistema compacto para germinacion y propagacion con tapas y soportes impresos.",
+    "basePrice": 340,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "soporte-trepadora-pared",
+    "category": "Macetas y jardineria",
+    "name": "Soporte de pared para trepadoras",
+    "description": "Pieza ligera para guiar plantas pequenas en muros, balcones o huertos urbanos.",
+    "basePrice": 170,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "etiquetas-jardin-pack",
+    "category": "Macetas y jardineria",
+    "name": "Pack de etiquetas para jardin",
+    "description": "Etiquetas reutilizables para identificar especies, semilleros o zonas de cultivo.",
+    "basePrice": 145,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "casco-cosplay-seccionado",
+    "category": "Cosplay y props",
+    "name": "Casco cosplay seccionado",
+    "description": "Casco impreso por secciones listo para lijado, ensamble y acabado profesional.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "garras-cosplay-articuladas",
+    "category": "Cosplay y props",
+    "name": "Garras cosplay articuladas",
+    "description": "Set funcional para cosplay, sesion de fotos o display tematico.",
+    "basePrice": 520,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "hebilla-armadura-personalizada",
+    "category": "Cosplay y props",
+    "name": "Hebilla de armadura personalizada",
+    "description": "Accesorio para cinturones o pecheras con simbolo, clan o emblema propio.",
+    "basePrice": 180,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "prop-espada-mini-display",
+    "category": "Cosplay y props",
+    "name": "Prop de espada mini para display",
+    "description": "Replica compacta para escritorio, coleccion o regalo friki.",
+    "basePrice": 410,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "torre-dados-gotica",
+    "category": "Miniaturas y juegos de mesa",
+    "name": "Torre de dados gotica",
+    "description": "Accesorio tematico para lanzar dados en partidas de rol o mesa.",
+    "basePrice": 320,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "insert-organizador-catan",
+    "category": "Miniaturas y juegos de mesa",
+    "name": "Insert organizador para juego de mesa",
+    "description": "Organizador interno personalizado para cajas de juego con fichas, cartas y modulos.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "set-terreno-modular-ruinas",
+    "category": "Miniaturas y juegos de mesa",
+    "name": "Set de terreno modular Ruinas",
+    "description": "Escenografia por bloques para wargames, dioramas o sesiones narrativas.",
+    "basePrice": 540,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "miniatura-jefe-personalizada",
+    "category": "Miniaturas y juegos de mesa",
+    "name": "Miniatura de jefe personalizada",
+    "description": "Personaje a medida para juego de rol, trofeo geek o pieza de coleccion.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "senaletica-mesa-restaurante",
+    "category": "Negocios y senaletica",
+    "name": "Senaletica de mesa para restaurante",
+    "description": "Numeradores y senales impresas en 3D para mesas, barras o estaciones de servicio.",
+    "basePrice": 145,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "portamenus-qr-personalizado",
+    "category": "Negocios y senaletica",
+    "name": "Portamenus QR personalizado",
+    "description": "Base resistente para menus QR, promociones o puntos de pago en mostrador.",
+    "basePrice": 190,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "numero-casa-relieve-3d",
+    "category": "Negocios y senaletica",
+    "name": "Numero de casa en relieve 3D",
+    "description": "Pieza decorativa para fachada con tipografia, color y tamano configurables.",
+    "basePrice": 260,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "exhibidor-aretes-ferias",
+    "category": "Negocios y senaletica",
+    "name": "Exhibidor de aretes para ferias",
+    "description": "Display ligero y modular para artesanos, bazares o puntos de venta moviles.",
+    "basePrice": 380,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "carcasa-sensor-prototipo",
+    "category": "Prototipos y refacciones",
+    "name": "Carcasa para sensor de prototipo",
+    "description": "Envolvente funcional para pruebas electronicas, sensores o cajas de integracion.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "adaptador-tuberia-personalizado",
+    "category": "Prototipos y refacciones",
+    "name": "Adaptador de tuberia personalizado",
+    "description": "Pieza bajo medida para conectar diametros, pruebas de flujo o sistemas ligeros.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "soporte-pcb-laboratorio",
+    "category": "Prototipos y refacciones",
+    "name": "Soporte PCB para laboratorio",
+    "description": "Base de trabajo para placas, componentes y montaje rapido en banco de pruebas.",
+    "basePrice": 210,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "perilla-maquinaria-repuesto",
+    "category": "Prototipos y refacciones",
+    "name": "Perilla de repuesto para maquinaria",
+    "description": "Refaccion impresa en 3D para equipos, mobiliario o herramientas con pieza faltante.",
+    "basePrice": 140,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "soporte-celular-ventila-ajustable",
+    "category": "Movilidad y auto",
+    "name": "Soporte ajustable para celular en ventila",
+    "description": "Accesorio compacto para mantener el celular visible y estable dentro del auto.",
+    "basePrice": 225,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "gancho-cajuela-organizador",
+    "category": "Movilidad y auto",
+    "name": "Gancho organizador para cajuela",
+    "description": "Gancho resistente para colgar bolsas, mochilas o accesorios dentro de la cajuela.",
+    "basePrice": 170,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "clip-visera-lentes-premium",
+    "category": "Movilidad y auto",
+    "name": "Clip premium para lentes en visera",
+    "description": "Sujetador elegante para lentes, tarjetas o tickets en la visera del auto.",
+    "basePrice": 130,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "adaptador-portavasos-universal",
+    "category": "Movilidad y auto",
+    "name": "Adaptador universal para portavasos",
+    "description": "Base impresa para ajustar botellas, termos o accesorios a diferentes portavasos.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  }
+]
