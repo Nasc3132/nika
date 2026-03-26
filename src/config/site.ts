@@ -9,7 +9,7 @@ export const businessConfig = {
   name: 'Nika',
   whatsappNumber: '8671236658',
   email: 'hola@nika.mx',
-  phone: '+52 55 1234 5678',
+  phone: '+52 867 123 6658',
   address: 'Matamoros, Tamaulipas, Mexico',
   intro:
     'Disenamos e imprimimos piezas funcionales, decorativas y personalizadas en 3D. Cada pedido se revisa contigo para confirmar material, acabado, tiempos y monto final.',
