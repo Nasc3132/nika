@@ -7,6 +7,7 @@ import path from 'node:path'
 const envPath = path.resolve(process.cwd(), '.env')
 const primarySeedPath = path.resolve(process.cwd(), 'src/data/productSeed.json')
 const extraSeedPath = path.resolve(process.cwd(), 'src/data/productSeedExtras.json')
+const generatedSeedPath = path.resolve(process.cwd(), 'src/data/productSeedGenerated.json')
 
 function readRequiredFile(filePath, errorMessage) {
   if (!fs.existsSync(filePath)) {
@@ -47,6 +48,7 @@ const firebaseConfig = {
 const rawProducts = [
   ...JSON.parse(readRequiredFile(primarySeedPath, 'No existe src/data/productSeed.json.')),
   ...JSON.parse(readRequiredFile(extraSeedPath, 'No existe src/data/productSeedExtras.json.')),
+  ...JSON.parse(readRequiredFile(generatedSeedPath, 'No existe src/data/productSeedGenerated.json.')),
 ]
 
 const productSeedData = rawProducts.map((product) => ({

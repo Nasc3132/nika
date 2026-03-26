@@ -1,6 +1,7 @@
 import type { Product } from '@/types'
 import rawProductSeedData from './productSeed.json'
 import rawProductSeedExtrasData from './productSeedExtras.json'
+import rawProductSeedGeneratedData from './productSeedGenerated.json'
 
 type RawProductSeed = Omit<Product, 'images'> & {
   category?: string | null
@@ -14,6 +15,7 @@ export function buildProductPlaceholderImage(name: string, category?: string | n
 export const productSeedData: Product[] = [
   ...(rawProductSeedData as RawProductSeed[]),
   ...(rawProductSeedExtrasData as RawProductSeed[]),
+  ...(rawProductSeedGeneratedData as RawProductSeed[]),
 ].map((product) => ({
   ...product,
   images: [buildProductPlaceholderImage(product.name, product.category)],

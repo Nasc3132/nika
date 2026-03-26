@@ -146,6 +146,9 @@ export function CatalogPage() {
               <Text textTransform="uppercase" letterSpacing="0.24em" fontSize="xs" color="brand.solid">
                 Categorias
               </Text>
+              <Text color="fg.muted">
+                {products.length} productos listos para filtrar en {categories.length} categorias.
+              </Text>
               <Box display="flex" flexWrap="wrap" gap="3">
                 <Button
                   variant={selectedCategory === 'Todas' ? 'solid' : 'outline'}

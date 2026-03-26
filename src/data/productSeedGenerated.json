@@ -1,0 +1,866 @@
+[
+  {
+    "id": "kit-geometria-3d",
+    "category": "Educacion STEM",
+    "name": "Kit de geometria 3D",
+    "description": "Material didactico para figuras, volumenes y ejercicios tactiles en aula.",
+    "basePrice": 380,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "modelo-molecula-color",
+    "category": "Educacion STEM",
+    "name": "Modelo de molecula colorida",
+    "description": "Estructura didactica para clases de quimica y ciencias.",
+    "basePrice": 260,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "set-fracciones-encajables",
+    "category": "Educacion STEM",
+    "name": "Set de fracciones encajables",
+    "description": "Piezas numericas para explicar equivalencias y porcentajes.",
+    "basePrice": 240,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "mapa-relieve-mexico",
+    "category": "Educacion STEM",
+    "name": "Mapa en relieve de Mexico",
+    "description": "Apoyo visual para geografia, relieve y ubicacion de regiones.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "robot-educativo-chassis",
+    "category": "Educacion STEM",
+    "name": "Chasis para robot educativo",
+    "description": "Base modular para pruebas de electronica y movimiento.",
+    "basePrice": 410,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "abaco-modular-3d",
+    "category": "Educacion STEM",
+    "name": "Abaco modular 3D",
+    "description": "Herramienta didactica para sumas, restas y conteo temprano.",
+    "basePrice": 230,
+    "isCustom": false,
+    "inStock": false
+  },
+  {
+    "id": "demo-presion-fluidos",
+    "category": "Educacion STEM",
+    "name": "Demo de presion de fluidos",
+    "description": "Pieza demostrativa para laboratorio escolar y STEM.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "tablero-sistema-solar",
+    "category": "Educacion STEM",
+    "name": "Tablero del sistema solar",
+    "description": "Laminado volumetrico para explicar planetas y escalas.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "puzzle-alfabeto-3d",
+    "category": "Educacion STEM",
+    "name": "Puzzle de alfabeto 3D",
+    "description": "Letras gruesas para aprendizaje sensorial y lectura inicial.",
+    "basePrice": 310,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "pulsera-numeros-matematicas",
+    "category": "Educacion STEM",
+    "name": "Pulsera de numeros matematicas",
+    "description": "Recurso didactico para sumar, restar y secuenciar.",
+    "basePrice": 150,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "kit-ejes-ruedas",
+    "category": "Educacion STEM",
+    "name": "Kit de ejes y ruedas",
+    "description": "Juego para experimentos de friccion, movimiento y prototipos.",
+    "basePrice": 280,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "maqueta-volcan-escolar",
+    "category": "Educacion STEM",
+    "name": "Maqueta de volcan escolar",
+    "description": "Base para proyectos, exhibiciones y modelos interactivos.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": false
+  },
+  {
+    "id": "comedero-elevado-mascota",
+    "category": "Veterinaria y mascotas",
+    "name": "Comedero elevado para mascota",
+    "description": "Base ergonomica para comida y agua con alturas personalizadas.",
+    "basePrice": 340,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "soporte-dona-collar",
+    "category": "Veterinaria y mascotas",
+    "name": "Soporte para collar tipo dona",
+    "description": "Accesorio suave para recuperacion o soporte temporal.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "placa-contacto-mascota",
+    "category": "Veterinaria y mascotas",
+    "name": "Placa de contacto para mascota",
+    "description": "Identificador con nombre, telefono y datos de emergencia.",
+    "basePrice": 115,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "juguete-gato-resorte",
+    "category": "Veterinaria y mascotas",
+    "name": "Juguete para gato con resorte",
+    "description": "Pieza flexible para estimular juego y movimiento.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "dispensador-premios-mascota",
+    "category": "Veterinaria y mascotas",
+    "name": "Dispensador de premios para mascota",
+    "description": "Contenedor para snacks y entrenamiento positivo.",
+    "basePrice": 210,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "porta-cepillo-dientes-pets",
+    "category": "Veterinaria y mascotas",
+    "name": "Porta cepillo de dientes pet",
+    "description": "Organizador para higiene y accesorios de cuidado.",
+    "basePrice": 95,
+    "isCustom": false,
+    "inStock": false
+  },
+  {
+    "id": "base-placa-canina-xl",
+    "category": "Veterinaria y mascotas",
+    "name": "Base para placa canina XL",
+    "description": "Soporte grande para negocios veterinarios y refugios.",
+    "basePrice": 180,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "banquito-bano-grooming",
+    "category": "Veterinaria y mascotas",
+    "name": "Banquito para grooming",
+    "description": "Apoyo impreso para sesiones de ba?o y arreglo.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "identificador-jaula-veterinaria",
+    "category": "Veterinaria y mascotas",
+    "name": "Identificador de jaula veterinaria",
+    "description": "Etiqueta resistente para hospital, estancia o resguardo.",
+    "basePrice": 170,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "juguete-enriquecimiento-perro",
+    "category": "Veterinaria y mascotas",
+    "name": "Juguete de enriquecimiento para perro",
+    "description": "Pieza para olfato, premios y estimulo mental.",
+    "basePrice": 250,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "soporte-comedero-doble",
+    "category": "Veterinaria y mascotas",
+    "name": "Soporte para comedero doble",
+    "description": "Base compacta para dos recipientes y limpieza facil.",
+    "basePrice": 320,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "placa-medicacion-mascota",
+    "category": "Veterinaria y mascotas",
+    "name": "Placa de medicacion para mascota",
+    "description": "Accesorio informativo para dosis, horarios o alertas.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": false
+  },
+  {
+    "id": "rack-pared-modular",
+    "category": "Pared y almacenamiento",
+    "name": "Rack de pared modular",
+    "description": "Sistema para montar herramientas, cables o accesorios ligeros.",
+    "basePrice": 420,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "gancho-pared-ultra",
+    "category": "Pared y almacenamiento",
+    "name": "Gancho de pared ultra",
+    "description": "Gancho reforzado para bolsas, llaves o mochilas.",
+    "basePrice": 75,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "base-router-pared",
+    "category": "Pared y almacenamiento",
+    "name": "Base de router para pared",
+    "description": "Soporte ventilado para equipos de red y orden visual.",
+    "basePrice": 210,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "organizador-mangueras",
+    "category": "Pared y almacenamiento",
+    "name": "Organizador de mangueras",
+    "description": "Pieza para enrollar, colgar y evitar dobleces.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "contenedor-hermetic-clips",
+    "category": "Pared y almacenamiento",
+    "name": "Contenedor hermetico con clips",
+    "description": "Caja apilable para tornillos, consumibles o piezas pequenas.",
+    "basePrice": 260,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "soporte-detergente-bano",
+    "category": "Pared y almacenamiento",
+    "name": "Soporte para detergente de bano",
+    "description": "Solucion de pared para amenidades, limpieza o spa.",
+    "basePrice": 150,
+    "isCustom": false,
+    "inStock": false
+  },
+  {
+    "id": "portallaves-familiar",
+    "category": "Pared y almacenamiento",
+    "name": "Portallaves familiar",
+    "description": "Panel decorativo con ganchos y placas con nombre.",
+    "basePrice": 280,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "bandeja-entrada-casa",
+    "category": "Pared y almacenamiento",
+    "name": "Bandeja de entrada para casa",
+    "description": "Deposito para monedas, llaves, gafas y objetos de acceso.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "clip-cable-pared",
+    "category": "Pared y almacenamiento",
+    "name": "Clip de cable para pared",
+    "description": "Organizador discreto para cableado residencial u oficina.",
+    "basePrice": 65,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "dispensador-bolsas-multi",
+    "category": "Pared y almacenamiento",
+    "name": "Dispensador de bolsas multiuso",
+    "description": "Base para bolsa de basura, refuerzo o almacenaje ligero.",
+    "basePrice": 205,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "sujeta-libros-pared",
+    "category": "Pared y almacenamiento",
+    "name": "Sujeta libros de pared",
+    "description": "Apoyo lateral para libros, cuadernos o exhibicion.",
+    "basePrice": 300,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "soporte-escalera-ligera",
+    "category": "Pared y almacenamiento",
+    "name": "Soporte para escalera ligera",
+    "description": "Base funcional para guardar accesorios y herramientas.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": false
+  },
+  {
+    "id": "portabrocas-magico",
+    "category": "Taller y herramientas",
+    "name": "Portabrocas magnetico",
+    "description": "Organizador para brocas, puntas y piezas pequenas de taller.",
+    "basePrice": 330,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "calibrador-esquinas",
+    "category": "Taller y herramientas",
+    "name": "Calibrador de esquinas",
+    "description": "Plantilla para mediciones, marcaje y verificaciones rapidas.",
+    "basePrice": 155,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "soporte-cautin-mini",
+    "category": "Taller y herramientas",
+    "name": "Soporte mini para cautin",
+    "description": "Base segura para soldadura y estaciones compactas.",
+    "basePrice": 275,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "jig-ensamble-90",
+    "category": "Taller y herramientas",
+    "name": "Jig de ensamble 90 grados",
+    "description": "Ayuda para armado, pegado y alineacion de piezas.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "caja-baterias-18650",
+    "category": "Taller y herramientas",
+    "name": "Caja para baterias 18650",
+    "description": "Contenedor seguro para almacenamiento y pruebas.",
+    "basePrice": 190,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "guia-taladro-compacta",
+    "category": "Taller y herramientas",
+    "name": "Guia de taladro compacta",
+    "description": "Apoyo para perforaciones rectas y repetibles.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": false
+  },
+  {
+    "id": "llave-tension-ajustable",
+    "category": "Taller y herramientas",
+    "name": "Llave de tension ajustable",
+    "description": "Refaccion util para mantenimiento de equipos ligeros.",
+    "basePrice": 145,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "soporte-microscopio",
+    "category": "Taller y herramientas",
+    "name": "Soporte para microscopio",
+    "description": "Base auxiliar para observacion y pruebas de detalle.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "junta-prueba-flujo",
+    "category": "Taller y herramientas",
+    "name": "Junta de prueba de flujo",
+    "description": "Pieza para validar encajes, pasos o conductos en prototipo.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "organizadores-brocas",
+    "category": "Taller y herramientas",
+    "name": "Organizador de brocas",
+    "description": "Sistema de almacenamiento por diametro y longitud.",
+    "basePrice": 185,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "soporte-pintura-mini",
+    "category": "Taller y herramientas",
+    "name": "Soporte para pintura mini",
+    "description": "Base para aerografo, pinceles o secado de piezas.",
+    "basePrice": 230,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "pieza-repuesto-maquina-ligera",
+    "category": "Taller y herramientas",
+    "name": "Pieza de repuesto para maquina ligera",
+    "description": "Refaccion bajo medida para equipos pequenos.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": false
+  },
+  {
+    "id": "trofeo-logo-premio",
+    "category": "Regalos corporativos 3D",
+    "name": "Trofeo con logo corporativo",
+    "description": "Reconocimiento para eventos internos o premiaciones.",
+    "basePrice": 410,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "porta-tarjeta-visita-3d",
+    "category": "Regalos corporativos 3D",
+    "name": "Portatarjeta de visita 3D",
+    "description": "Base elegante para recepcion y mostrador.",
+    "basePrice": 180,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "display-producto-mini",
+    "category": "Regalos corporativos 3D",
+    "name": "Display mini para producto",
+    "description": "Exhibidor para ferias, demos o activaciones.",
+    "basePrice": 275,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "porta-plumas-logo",
+    "category": "Regalos corporativos 3D",
+    "name": "Portaplumas con logo",
+    "description": "Organizador de escritorio con identidad de marca.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "llavero-qr-marca",
+    "category": "Regalos corporativos 3D",
+    "name": "Llavero QR de marca",
+    "description": "Accesorio promocional con identidad visual y enlace.",
+    "basePrice": 120,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "topper-nombre-empresa",
+    "category": "Regalos corporativos 3D",
+    "name": "Topper con nombre de empresa",
+    "description": "Pieza decorativa para regalos, cajas o eventos.",
+    "basePrice": 160,
+    "isCustom": false,
+    "inStock": false
+  },
+  {
+    "id": "letrero-mostrador-premium",
+    "category": "Regalos corporativos 3D",
+    "name": "Letrero de mostrador premium",
+    "description": "Senaletica limpia y resistente para atencion al cliente.",
+    "basePrice": 330,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "base-certificado-3d",
+    "category": "Regalos corporativos 3D",
+    "name": "Base para certificado 3D",
+    "description": "Soporte para diplomas, premios y entrega institucional.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "aditamento-copa-evento",
+    "category": "Regalos corporativos 3D",
+    "name": "Aditamento para copa de evento",
+    "description": "Pieza con branding para celebraciones y torneos.",
+    "basePrice": 150,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "placa-memoria-empresa",
+    "category": "Regalos corporativos 3D",
+    "name": "Placa de memoria corporativa",
+    "description": "Pieza con nombre, fecha y branding para reconocimientos.",
+    "basePrice": 210,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "soporte-celular-marca",
+    "category": "Regalos corporativos 3D",
+    "name": "Soporte celular de marca",
+    "description": "Accesorio promocional util para escritorio o casa.",
+    "basePrice": 190,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "pieza-mesa-redonda-logo",
+    "category": "Regalos corporativos 3D",
+    "name": "Pieza de mesa con logo",
+    "description": "Elemento decorativo para restaurantes, showrooms o oficinas.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": false
+  },
+  {
+    "id": "marcador-mesa-boda",
+    "category": "Eventos y bodas 3D",
+    "name": "Marcador de mesa para boda",
+    "description": "Numero o nombre de mesa con acabado elegante.",
+    "basePrice": 170,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "topper-pastel-personalizado",
+    "category": "Eventos y bodas 3D",
+    "name": "Topper de pastel personalizado",
+    "description": "Pieza ligera para pasteles, eventos y celebraciones.",
+    "basePrice": 130,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "recuerdo-xv-3d",
+    "category": "Eventos y bodas 3D",
+    "name": "Recuerdo XV 3D",
+    "description": "Detalle para fiestas con nombre, fecha y colores especiales.",
+    "basePrice": 110,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "marca-copa-evento",
+    "category": "Eventos y bodas 3D",
+    "name": "Marca copa de evento",
+    "description": "Identificador pequeno para reuniones y banquetes.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "base-anillos-ceremonia",
+    "category": "Eventos y bodas 3D",
+    "name": "Base para anillos de ceremonia",
+    "description": "Presentacion delicada para alianzas y rituales.",
+    "basePrice": 190,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "llavero-bautizo",
+    "category": "Eventos y bodas 3D",
+    "name": "Llavero de bautizo",
+    "description": "Recuerdo con nombre, fecha y simbolo de evento.",
+    "basePrice": 95,
+    "isCustom": false,
+    "inStock": false
+  },
+  {
+    "id": "placa-bienvenida-evento",
+    "category": "Eventos y bodas 3D",
+    "name": "Placa de bienvenida de evento",
+    "description": "Letrero para entrada de salon o mesa principal.",
+    "basePrice": 240,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "posavasos-festejo",
+    "category": "Eventos y bodas 3D",
+    "name": "Posavasos de festejo",
+    "description": "Set personalizable para mesa de invitados.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "caja-anillos-novia",
+    "category": "Eventos y bodas 3D",
+    "name": "Caja de anillos para novia",
+    "description": "Contenedor elegante y compacto para ceremonia.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "numero-mesa-3d",
+    "category": "Eventos y bodas 3D",
+    "name": "Numero de mesa 3D",
+    "description": "Identificador grande para banquete o recepcion.",
+    "basePrice": 165,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "marco-foto-evento",
+    "category": "Eventos y bodas 3D",
+    "name": "Marco de foto para evento",
+    "description": "Base para photobooth, recuerdos o mesa de firmas.",
+    "basePrice": 280,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "adorno-torre-evento",
+    "category": "Eventos y bodas 3D",
+    "name": "Adorno de torre para evento",
+    "description": "Pieza decorativa para mesas de ambientacion.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": false
+  },
+  {
+    "id": "fidget-gear-ring",
+    "category": "Fidget y bienestar",
+    "name": "Fidget ring gear",
+    "description": "Anillo mecanico para concentracion y relajacion.",
+    "basePrice": 115,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "chain-fidget-portable",
+    "category": "Fidget y bienestar",
+    "name": "Fidget chain portable",
+    "description": "Cadena articulada para manos inquietas y escritorio.",
+    "basePrice": 140,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "mini-puzzle-antistress",
+    "category": "Fidget y bienestar",
+    "name": "Mini puzzle antistress",
+    "description": "Objeto tactil para pausas y enfoque.",
+    "basePrice": 90,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "bola-sensorial-texturizada",
+    "category": "Fidget y bienestar",
+    "name": "Bola sensorial texturizada",
+    "description": "Pieza tactil para relajacion o estimulo sensorial.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "anillo-ansiedad-3d",
+    "category": "Fidget y bienestar",
+    "name": "Anillo para ansiedad 3D",
+    "description": "Accesorio discreto para movimiento repetitivo.",
+    "basePrice": 70,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "gusano-articulado-balance",
+    "category": "Fidget y bienestar",
+    "name": "Gusano articulado balance",
+    "description": "Fidget flexible de escritorio con movimiento continuo.",
+    "basePrice": 125,
+    "isCustom": false,
+    "inStock": false
+  },
+  {
+    "id": "rompecabezas-dedos",
+    "category": "Fidget y bienestar",
+    "name": "Rompecabezas de dedos",
+    "description": "Objeto pequeno para focus y entretenimiento breve.",
+    "basePrice": 95,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "spinner-geometry",
+    "category": "Fidget y bienestar",
+    "name": "Spinner geometrico",
+    "description": "Fidget compacto con buen balance y giro suave.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "teja-meditar-3d",
+    "category": "Fidget y bienestar",
+    "name": "Teja para meditar 3D",
+    "description": "Pieza de bolsillo para respiracion consciente y calma.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "mini-totem-fidget",
+    "category": "Fidget y bienestar",
+    "name": "Mini totem fidget",
+    "description": "Conjunto de piezas de mano para pausas cortas.",
+    "basePrice": 150,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "aro-movimiento-escritorio",
+    "category": "Fidget y bienestar",
+    "name": "Aro de movimiento para escritorio",
+    "description": "Objeto continuo para manos y concentracion.",
+    "basePrice": 130,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "cubo-desensamble",
+    "category": "Fidget y bienestar",
+    "name": "Cubo desensamble",
+    "description": "Puzzle mecanico para desconexion breve.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": false
+  },
+  {
+    "id": "soporte-gpu-antiflex",
+    "category": "PC mods y accesorios",
+    "name": "Soporte GPU antiflex",
+    "description": "Base para evitar flexion en tarjetas graficas pesadas.",
+    "basePrice": 260,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "panel-led-falso",
+    "category": "PC mods y accesorios",
+    "name": "Panel LED falso para case",
+    "description": "Accesorio decorativo para torres y setups.",
+    "basePrice": 180,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "clip-fan-argb",
+    "category": "PC mods y accesorios",
+    "name": "Clip para fan ARGB",
+    "description": "Refuerzo para ordenar ventiladores y cableado.",
+    "basePrice": 95,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "tapadera-cable-mesa-gamer",
+    "category": "PC mods y accesorios",
+    "name": "Tapadera de cable para mesa gamer",
+    "description": "Organizador para escritorios con estetica limpia.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "soporte-ssd-vertical",
+    "category": "PC mods y accesorios",
+    "name": "Soporte SSD vertical",
+    "description": "Montaje compacto para mostrar o sujetar unidades.",
+    "basePrice": 150,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "base-mic-streamer",
+    "category": "PC mods y accesorios",
+    "name": "Base para micro de streamer",
+    "description": "Soporte bajo perfil para stream, podcast o gaming.",
+    "basePrice": 240,
+    "isCustom": false,
+    "inStock": false
+  },
+  {
+    "id": "adaptador-panel-usb",
+    "category": "PC mods y accesorios",
+    "name": "Adaptador de panel USB",
+    "description": "Pieza de integracion para gabinetes personalizados.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "gancho-audifonos-case",
+    "category": "PC mods y accesorios",
+    "name": "Gancho de audifonos para case",
+    "description": "Accesorio lateral para colgar headset.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": true
+  },
+  {
+    "id": "guiacables-rgb",
+    "category": "PC mods y accesorios",
+    "name": "Guiacables RGB",
+    "description": "Pieza para enrutar cableado sin perder estetica.",
+    "basePrice": 110,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "soporte-teclado-angulo",
+    "category": "PC mods y accesorios",
+    "name": "Soporte para teclado angulado",
+    "description": "Base ergonomica para escritorio o exhibicion.",
+    "basePrice": 210,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "pegatina-relieve-logo-pc",
+    "category": "PC mods y accesorios",
+    "name": "Pegatina en relieve para PC",
+    "description": "Detalle decorativo para gabinetes y tapas laterales.",
+    "basePrice": 100,
+    "isCustom": false,
+    "inStock": true
+  },
+  {
+    "id": "tapa-puerto-custom",
+    "category": "PC mods y accesorios",
+    "name": "Tapa de puerto custom",
+    "description": "Cubierta para puertos, ranuras o conexiones expuestas.",
+    "basePrice": null,
+    "isCustom": true,
+    "inStock": false
+  }
+]
