@@ -8,6 +8,7 @@ const envPath = path.resolve(process.cwd(), '.env')
 const primarySeedPath = path.resolve(process.cwd(), 'src/data/productSeed.json')
 const extraSeedPath = path.resolve(process.cwd(), 'src/data/productSeedExtras.json')
 const generatedSeedPath = path.resolve(process.cwd(), 'src/data/productSeedGenerated.json')
+const productImageMapPath = path.resolve(process.cwd(), 'src/data/productImageMap.json')
 
 function readRequiredFile(filePath, errorMessage) {
   if (!fs.existsSync(filePath)) {
@@ -30,9 +31,26 @@ function parseEnv(content) {
   )
 }
 
-function buildProductPlaceholderImage(name, category) {
-  const label = encodeURIComponent(`Nika 3D | ${category ?? 'Producto'} | ${name}`)
-  return `https://placehold.co/1200x900/F4E8DA/2C211B?text=${label}`
+function hashString(value) {
+  let hash = 0
+
+  for (let index = 0; index < value.length; index += 1) {
+    hash = (hash << 5) - hash + value.charCodeAt(index)
+    hash |= 0
+  }
+
+  return Math.abs(hash)
+}
+
+const categoryImageMap = JSON.parse(readRequiredFile(productImageMapPath, 'No existe src/data/productImageMap.json.'))
+
+function buildProductImageUrl(name, category) {
+  const defaultQuery = '3d-printing,product'
+  const query = category && Object.prototype.hasOwnProperty.call(categoryImageMap, category)
+    ? categoryImageMap[category]
+    : defaultQuery
+
+  return `https://loremflickr.com/1200/900/${query}?lock=${hashString(`${category ?? 'Producto'}:${name}`)}`
 }
 
 const env = parseEnv(readRequiredFile(envPath, 'No existe .env en la raiz del proyecto.'))
@@ -53,7 +71,7 @@ const rawProducts = [
 
 const productSeedData = rawProducts.map((product) => ({
   ...product,
-  images: [buildProductPlaceholderImage(product.name, product.category)],
+  images: [buildProductImageUrl(product.name, product.category)],
 }))
 
 const app = initializeApp(firebaseConfig)

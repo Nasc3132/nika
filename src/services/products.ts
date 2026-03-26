@@ -1,6 +1,7 @@
 import { collection, doc, getDocs, orderBy, query, setDoc, writeBatch } from 'firebase/firestore'
 import { db, isFirebaseConfigured } from '@/firebase'
-import { buildProductPlaceholderImage, productSeedData } from '@/data/productSeed'
+import { productSeedData } from '@/data/productSeed'
+import { buildProductImageUrl } from '@/data/productImage'
 import type { Product } from '@/types'
 
 function assertFirebaseConfigured() {
@@ -13,7 +14,7 @@ function normalizeProduct(id: string, data: Partial<Product>): Product {
   const category = typeof data.category === 'string' ? data.category : null
   const images = Array.isArray(data.images) && data.images.length > 0
     ? data.images
-    : [buildProductPlaceholderImage(data.name ?? 'Producto', category)]
+    : [buildProductImageUrl(data.name ?? 'Producto', category)]
 
   return {
     id,
