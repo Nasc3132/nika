@@ -7,7 +7,7 @@ function buildShowcaseImage(label: string) {
 
 export const businessConfig = {
   name: 'Nika',
-  whatsappNumber: '5215512345678',
+  whatsappNumber: '8671236658',
   email: 'hola@nika.mx',
   phone: '+52 55 1234 5678',
   address: 'Matamoros, Tamaulipas, Mexico',
