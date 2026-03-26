@@ -252,7 +252,7 @@ export function CustomForm({ initialProductType }: CustomFormProps) {
         </Stack>
 
         <Stack direction={{ base: 'column', md: 'row' }} gap="3">
-          <Button type="submit" colorPalette="orange">
+          <Button type="submit" colorPalette="brand">
             Guardar en el carrito
           </Button>
           <Button variant="outline" borderColor="border.soft" onClick={() => navigate('/carrito')}>

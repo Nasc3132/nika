@@ -14,7 +14,7 @@ export function HomePage() {
         description="Nika mezcla catalogo, personalizacion y seguimiento manual para que cada pedido llegue con contexto, referencias y una conversacion clara antes de imprimir y cobrar."
         actions={
           <Stack direction={{ base: 'column', sm: 'row' }} gap="3">
-            <Button colorPalette="orange" onClick={() => navigate('/catalogo')}>
+            <Button colorPalette="brand" onClick={() => navigate('/catalogo')}>
               Explorar catalogo
             </Button>
             <Button variant="outline" borderColor="border.soft" onClick={() => navigate('/arma-tu-pedido')}>

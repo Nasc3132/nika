@@ -89,7 +89,7 @@ export function OrderSummary({
 
       {onSubmit ? (
         <Button
-          colorPalette="orange"
+          colorPalette="brand"
           loading={isSubmitting}
           onClick={onSubmit}
           disabled={items.length === 0}

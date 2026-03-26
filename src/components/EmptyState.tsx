@@ -25,7 +25,7 @@ export function EmptyState({ title, description, actionLabel, onAction }: EmptyS
         {description}
       </Text>
       {actionLabel && onAction ? (
-        <Button colorPalette="orange" onClick={onAction}>
+        <Button colorPalette="brand" onClick={onAction}>
           {actionLabel}
         </Button>
       ) : null}

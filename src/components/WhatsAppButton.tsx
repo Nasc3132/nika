@@ -12,7 +12,7 @@ export function WhatsAppButton({
 }: WhatsAppButtonProps) {
   return (
     <Button
-      colorPalette="green"
+      colorPalette="brand"
       onClick={() => {
         if (!url) return
         window.open(url, '_blank', 'noopener,noreferrer')

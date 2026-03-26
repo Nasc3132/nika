@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none">
-  <rect width="48" height="48" rx="12" fill="#F4E8DA"/>
-  <path d="M14 17.5L24 11.5L34 17.5L24 23.5L14 17.5Z" fill="#C66A3C"/>
-  <path d="M14 17.5L24 23.5V35.5L14 29.5V17.5Z" fill="#E19A6A"/>
-  <path d="M34 17.5L24 23.5V35.5L34 29.5V17.5Z" fill="#A9532D"/>
-  <path d="M17 28.25L24 24L31 28.25L24 32.5L17 28.25Z" fill="#2C211B"/>
-  <path d="M19 14.5H29L31 19H17L19 14.5Z" fill="#2C211B"/>
-  <path d="M16 36.5H32" stroke="#2C211B" stroke-width="2.5" stroke-linecap="round"/>
-  <path d="M18 40H30" stroke="#8C6B54" stroke-width="2.5" stroke-linecap="round"/>
+  <rect width="48" height="48" rx="12" fill="#0B4279"/>
+  <path d="M14 17.5L24 11.5L34 17.5L24 23.5L14 17.5Z" fill="#F5F9FF"/>
+  <path d="M14 17.5L24 23.5V35.5L14 29.5V17.5Z" fill="#D7E9FF"/>
+  <path d="M34 17.5L24 23.5V35.5L34 29.5V17.5Z" fill="#B0D0FF"/>
+  <path d="M17 28.25L24 24L31 28.25L24 32.5L17 28.25Z" fill="#F5F9FF"/>
+  <path d="M19 14.5H29L31 19H17L19 14.5Z" fill="#F5F9FF"/>
+  <path d="M16 36.5H32" stroke="#F5F9FF" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M18 40H30" stroke="#D7E9FF" stroke-width="2.5" stroke-linecap="round"/>
 </svg>

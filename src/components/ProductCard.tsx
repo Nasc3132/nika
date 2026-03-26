@@ -74,12 +74,12 @@ export function ProductCard({
             Ver detalles
           </Button>
           {product.isCustom ? (
-            <Button colorPalette="orange" onClick={() => onCustomize(product)}>
+            <Button colorPalette="brand" onClick={() => onCustomize(product)}>
               Personalizar
             </Button>
           ) : (
             <Button
-              colorPalette="orange"
+              colorPalette="brand"
               onClick={() => onAdd(product)}
               disabled={!product.inStock}
             >

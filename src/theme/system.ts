@@ -9,40 +9,28 @@ const config = defineConfig({
       },
       colors: {
         brand: {
-          50: { value: '#fff4ee' },
-          100: { value: '#fde1d3' },
-          200: { value: '#f8c3aa' },
-          300: { value: '#ef9f7b' },
-          400: { value: '#d98a66' },
-          500: { value: '#c66f49' },
-          600: { value: '#a95938' },
-          700: { value: '#88452d' },
-          800: { value: '#673320' },
-          900: { value: '#412013' },
+          50: { value: '#eaf4ff' },
+          100: { value: '#d3e8ff' },
+          200: { value: '#a9d0ff' },
+          300: { value: '#7eb8ff' },
+          400: { value: '#5098f0' },
+          500: { value: '#1f74cf' },
+          600: { value: '#145ca8' },
+          700: { value: '#0e477f' },
+          800: { value: '#08345d' },
+          900: { value: '#052642' },
         },
-        sage: {
-          50: { value: '#f5f8f1' },
-          100: { value: '#e5edd9' },
-          200: { value: '#c8d7b6' },
-          300: { value: '#a8bf8f' },
-          400: { value: '#8ea47e' },
-          500: { value: '#6f8560' },
-          600: { value: '#596d4c' },
-          700: { value: '#46563c' },
-          800: { value: '#313a29' },
-          900: { value: '#1d2218' },
-        },
-        sand: {
-          50: { value: '#f8f3ee' },
-          100: { value: '#efe7de' },
-          200: { value: '#dfd0be' },
-          300: { value: '#cfb696' },
-          400: { value: '#b99571' },
-          500: { value: '#9f7657' },
-          600: { value: '#845d46' },
-          700: { value: '#624434' },
-          800: { value: '#422d20' },
-          900: { value: '#281a12' },
+        sky: {
+          50: { value: '#f3f9ff' },
+          100: { value: '#e0f0ff' },
+          200: { value: '#beddff' },
+          300: { value: '#91c8ff' },
+          400: { value: '#67b1ff' },
+          500: { value: '#3f92f2' },
+          600: { value: '#2f73c4' },
+          700: { value: '#23599a' },
+          800: { value: '#173d68' },
+          900: { value: '#0d2742' },
         },
       },
     },
@@ -50,37 +38,37 @@ const config = defineConfig({
       colors: {
         brand: {
           solid: {
-            value: { base: '{colors.brand.500}', _dark: '{colors.brand.300}' },
+            value: { base: '#eaf4ff', _dark: '#eaf4ff' },
           },
           contrast: {
-            value: { base: '#fff8f3', _dark: '#201511' },
+            value: { base: '#062b4f', _dark: '#062b4f' },
           },
         },
         accent: {
           solid: {
-            value: { base: '{colors.sage.500}', _dark: '{colors.sage.300}' },
+            value: { base: '{colors.sky.400}', _dark: '{colors.sky.300}' },
           },
           contrast: {
-            value: { base: '#f6faf2', _dark: '#162015' },
+            value: { base: '#062642', _dark: '#062642' },
           },
         },
         surface: {
-          value: { base: '#fffaf5', _dark: '#1b1714' },
+          value: { base: '#0b3b6c', _dark: '#071d35' },
         },
         'surface.muted': {
-          value: { base: '#f2e7db', _dark: '#241e1a' },
+          value: { base: '#104478', _dark: '#0b2947' },
         },
         'surface.sunken': {
-          value: { base: '#ebdfd1', _dark: '#151311' },
+          value: { base: '#082d52', _dark: '#061629' },
         },
         'surface.panel': {
-          value: { base: 'rgba(255, 250, 245, 0.82)', _dark: 'rgba(29, 24, 21, 0.82)' },
+          value: { base: 'rgba(8, 42, 78, 0.82)', _dark: 'rgba(5, 20, 38, 0.88)' },
         },
         'border.soft': {
-          value: { base: 'rgba(141, 116, 88, 0.22)', _dark: 'rgba(241, 222, 203, 0.12)' },
+          value: { base: 'rgba(255, 255, 255, 0.18)', _dark: 'rgba(160, 205, 255, 0.14)' },
         },
         'hero.glow': {
-          value: { base: 'rgba(217, 138, 102, 0.18)', _dark: 'rgba(168, 191, 143, 0.16)' },
+          value: { base: 'rgba(127, 179, 255, 0.26)', _dark: 'rgba(127, 179, 255, 0.18)' },
         },
       },
     },
@@ -88,7 +76,7 @@ const config = defineConfig({
   globalCss: {
     'html, body': {
       bg: 'surface',
-      color: 'fg',
+      color: '#f5f9ff',
     },
     '::selection': {
       bg: 'brand.solid',

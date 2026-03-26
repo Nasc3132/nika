@@ -33,7 +33,7 @@ export function Navbar() {
       zIndex="40"
       borderBottom="1px solid"
       borderColor="border.soft"
-      bg="rgba(255, 250, 245, 0.72)"
+      bg="rgba(6, 34, 63, 0.8)"
       backdropFilter="blur(18px)"
     >
       <Container maxW="7xl" py="4">
@@ -45,6 +45,7 @@ export function Navbar() {
                 fontSize={{ base: '3xl', md: '4xl' }}
                 lineHeight="0.85"
                 fontWeight="700"
+                color="brand.solid"
               >
                 Nika
               </Text>
@@ -58,7 +59,7 @@ export function Navbar() {
                 <Button
                   key={link.href}
                   variant={location.pathname === link.href ? 'solid' : 'ghost'}
-                  colorPalette={location.pathname === link.href ? 'orange' : undefined}
+                  colorPalette={location.pathname === link.href ? 'brand' : undefined}
                   onClick={() => navigate(link.href)}
                 >
                   {link.label}
@@ -98,7 +99,7 @@ export function Navbar() {
                   key={link.href}
                   justifyContent="flex-start"
                   variant={location.pathname === link.href ? 'solid' : 'ghost'}
-                  colorPalette={location.pathname === link.href ? 'orange' : undefined}
+                  colorPalette={location.pathname === link.href ? 'brand' : undefined}
                   onClick={() => navigate(link.href)}
                 >
                   {link.label}

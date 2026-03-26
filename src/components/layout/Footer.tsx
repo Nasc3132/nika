@@ -17,9 +17,10 @@ export function Footer() {
           borderRadius="32px"
           border="1px solid"
           borderColor="border.soft"
+          boxShadow="0 24px 80px rgba(2, 12, 24, 0.24)"
         >
           <Stack maxW="420px" gap="3">
-            <Text fontFamily="heading" fontSize="4xl" fontWeight="700">
+            <Text fontFamily="heading" fontSize="4xl" fontWeight="700" color="brand.solid">
               Nika
             </Text>
             <Text color="fg.muted">{businessConfig.intro}</Text>

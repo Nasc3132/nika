@@ -20,7 +20,7 @@ export function PageHero({ eyebrow, title, description, actions }: PageHeroProps
           bg="surface.panel"
           borderRadius="32px"
           backdropFilter="blur(18px)"
-          boxShadow="0 24px 80px rgba(73, 47, 28, 0.08)"
+          boxShadow="0 24px 80px rgba(4, 20, 38, 0.28)"
         >
           <Text
             textTransform="uppercase"

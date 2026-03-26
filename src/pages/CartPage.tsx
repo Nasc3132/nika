@@ -103,7 +103,7 @@ export function CartPage() {
               description="Empieza desde el catalogo o agrega una solicitud personalizada para preparar tu pedido."
             />
             <Stack direction={{ base: 'column', sm: 'row' }} gap="3">
-              <Button colorPalette="orange" onClick={() => navigate('/catalogo')}>
+              <Button colorPalette="brand" onClick={() => navigate('/catalogo')}>
                 Ver catalogo
               </Button>
               <Button variant="outline" borderColor="border.soft" onClick={() => navigate('/arma-tu-pedido')}>

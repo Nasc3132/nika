@@ -133,7 +133,7 @@ export function CatalogPage() {
               description="Carga productos en Firestore o usa el seed de ejemplo para ver el MVP funcionando."
             />
             {import.meta.env.DEV ? (
-              <Button colorPalette="orange" alignSelf="flex-start" loading={isSeeding} onClick={handleSeed}>
+              <Button colorPalette="brand" alignSelf="flex-start" loading={isSeeding} onClick={handleSeed}>
                 Cargar productos demo en Firestore
               </Button>
             ) : null}
@@ -152,7 +152,7 @@ export function CatalogPage() {
               <Box display="flex" flexWrap="wrap" gap="3">
                 <Button
                   variant={selectedCategory === 'Todas' ? 'solid' : 'outline'}
-                  colorPalette={selectedCategory === 'Todas' ? 'orange' : undefined}
+                  colorPalette={selectedCategory === 'Todas' ? 'brand' : undefined}
                   borderColor="border.soft"
                   onClick={() => setSelectedCategory('Todas')}
                 >
@@ -162,7 +162,7 @@ export function CatalogPage() {
                   <Button
                     key={category}
                     variant={selectedCategory === category ? 'solid' : 'outline'}
-                    colorPalette={selectedCategory === category ? 'orange' : undefined}
+                    colorPalette={selectedCategory === category ? 'brand' : undefined}
                     borderColor="border.soft"
                     onClick={() => setSelectedCategory(category)}
                   >
